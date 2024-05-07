@@ -1,2 +1,2 @@
 # Academia
-Ejercicios de aprendizaje en Java desde nivel básico
+Ejercicios de aprendizaje en Java desde nivel básico.
